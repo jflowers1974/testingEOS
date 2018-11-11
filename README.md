@@ -7,5 +7,5 @@ Need to understand as well as test out ideas in a repo that I don't need to worr
 
 
 ```
-(http://digg.com/)
+[http://digg.com/]
 ```
